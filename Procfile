@@ -1,1 +1,1 @@
-web: gunicorn onehand.wsgi --log-file -
+web: gunicorn django_vue_example.wsgi --log-file -
